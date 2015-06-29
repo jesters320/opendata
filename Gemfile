@@ -11,6 +11,7 @@ gem 'bootstrap-sass', '~> 3.3.5'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
+gem 'd3_rails', '~> 3.5.5'
 
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
